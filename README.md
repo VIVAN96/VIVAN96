@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIVAN96
+- 👋 Hi, I’m VIVAN
 - 👀 I’m interested in Python, Data scientist and Data Engineering.
 - 🌱 I’m currently working as Govt Employee under Department of Education.
 - 💞️ I’m looking to collaborate on Data Science Real time Project.
